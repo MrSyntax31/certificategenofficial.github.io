@@ -9,6 +9,9 @@ body {
   font-size: 1.5em;
   background: #101011;
 }
+header, label{
+  color: white;
+}
 
 h4 {
   font-weight: normal;
